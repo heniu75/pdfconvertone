@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  api:
+    container_name: gemini-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=development
+    volumes:
+      - ./src:/app/src
+      - ./package.json:/app/package.json
+      - ./bun.lockb:/app/bun.lockb
+    restart: unless-stopped

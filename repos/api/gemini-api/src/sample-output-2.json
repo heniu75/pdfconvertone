@@ -1,0 +1,218 @@
+[
+    {
+        "Transaction Type": "Spend - John Lewis and Waitrose",
+        "Spend date": "02 Apr",
+        "Date processed": "03 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WAITROSE 846",
+        "Amount £": "63.17"
+    },
+    {
+        "Transaction Type": "Spend - John Lewis and Waitrose",
+        "Spend date": "12 Apr",
+        "Date processed": "13 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WAITROSE 528",
+        "Amount £": "16.36"
+    },
+    {
+        "Transaction Type": "Spend - John Lewis and Waitrose",
+        "Spend date": "22 Apr",
+        "Date processed": "24 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WAITROSE 513",
+        "Amount £": "113.50"
+    },
+    {
+        "Transaction Type": "Spend - John Lewis and Waitrose",
+        "Spend date": "23 Apr",
+        "Date processed": "24 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WAITROSE 846",
+        "Amount £": "22.78"
+    },
+    {
+        "Transaction Type": "Spend - John Lewis and Waitrose",
+        "Spend date": "29 Apr",
+        "Date processed": "01 May",
+        "Card ending": "2998",
+        "Transaction details": "WAITROSE 846",
+        "Amount £": "8.11"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "01 Apr",
+        "Date processed": "03 Apr",
+        "Card ending": "2998",
+        "Transaction details": "SHELL SOUTH MERTON",
+        "Amount £": "35.76"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "01 Apr",
+        "Date processed": "03 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WELCOME BREAK STARBUCK SOUTH MIMMS",
+        "Amount £": "7.45"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "06 Apr",
+        "Date processed": "07 Apr",
+        "Card ending": "2998",
+        "Transaction details": "Giacomo Conti Galeria Gdynia POL",
+        "Amount £": "321.66"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "06 Apr",
+        "Date processed": "07 Apr",
+        "Card ending": "2998",
+        "Transaction details": "Starbucks Gdynia POL",
+        "Amount £": "9.11"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "06 Apr",
+        "Date processed": "07 Apr",
+        "Card ending": "2998",
+        "Transaction details": "TEX-MEX SC MARIUSZ C GDYNIA POL 53.15 263.00 PLN @ 4.9483",
+        "Amount £": "53.15"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "07 Apr",
+        "Date processed": null,
+        "Card ending": null,
+        "Transaction details": "NON-STERLING TRANSACTION FEE",
+        "Amount £": "1.46"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "07 Apr",
+        "Date processed": "08 Apr",
+        "Card ending": "2998",
+        "Transaction details": "Apteka Sw. Jana Gdynia POL 3.78 18.59 PLN @ 4.9180",
+        "Amount £": "3.78"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "08 Apr",
+        "Date processed": null,
+        "Card ending": null,
+        "Transaction details": "NON-STERLING TRANSACTION FEE",
+        "Amount £": "0.10"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "08 Apr",
+        "Date processed": "10 Apr",
+        "Card ending": "2998",
+        "Transaction details": "Barracuda restauracja Gdynia POL",
+        "Amount £": "819.03"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "09 Apr",
+        "Date processed": "10 Apr",
+        "Card ending": "2998",
+        "Transaction details": "LUL TICKET MACHINE",
+        "Amount £": "47.30"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "12 Apr",
+        "Date processed": "13 Apr",
+        "Card ending": "2998",
+        "Transaction details": "ELYS LONDON",
+        "Amount £": "40.00"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "13 Apr",
+        "Date processed": "14 Apr",
+        "Card ending": "2998",
+        "Transaction details": "LUL TICKET MACHINE",
+        "Amount £": "30.00"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "19 Apr",
+        "Date processed": "20 Apr",
+        "Card ending": "2998",
+        "Transaction details": "SHELL SOUTH MERTON",
+        "Amount £": "10.70"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "23 Apr",
+        "Date processed": "24 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WWW.AURIGNY.COM GUERNSEY",
+        "Amount £": "368.96"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "24 Apr",
+        "Date processed": "25 Apr",
+        "Card ending": "2998",
+        "Transaction details": "POST OFFICE COUNTER LONDON",
+        "Amount £": "12.98"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "24 Apr",
+        "Date processed": "25 Apr",
+        "Card ending": "2998",
+        "Transaction details": "LUL TICKET MACHINE",
+        "Amount £": "30.00"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "26 Apr",
+        "Date processed": "27 Apr",
+        "Card ending": "2998",
+        "Transaction details": "SHELL PEPYS 427 LONDON SW20",
+        "Amount £": "45.79"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "28 Apr",
+        "Date processed": "29 Apr",
+        "Card ending": "2998",
+        "Transaction details": "WWW.HXPAYMENTS.COM HYTHE",
+        "Amount £": "38.83"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "28 Apr",
+        "Date processed": "29 Apr",
+        "Card ending": "2998",
+        "Transaction details": "LUL TICKET MACHINE",
+        "Amount £": "30.00"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "29 Apr",
+        "Date processed": "01 May",
+        "Card ending": "2998",
+        "Transaction details": "LTR UK LUTON London",
+        "Amount £": "77.37"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "29 Apr",
+        "Date processed": "01 May",
+        "Card ending": "2998",
+        "Transaction details": "JOHNSON CLEANERS RAYNES PARK",
+        "Amount £": "29.45"
+    },
+    {
+        "Transaction Type": "All other transactions",
+        "Spend date": "27 Apr",
+        "Date processed": null,
+        "Card ending": null,
+        "Transaction details": "DIRECT DEBIT TRANSACTION",
+        "Amount £": "799.40"
+    }
+]

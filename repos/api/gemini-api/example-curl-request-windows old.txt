@@ -1,0 +1,1 @@
+curl -X POST -H "Authorization: Bearer 9Q4CD2YUEPJMS7QU7EFX3DD32Z7YK5WM" -F "inputFile=@C:/code/gh/hein/pdf-converter-one/fly-api/gemini-api/!2017-test.PDF" -F "action=process" http://localhost:3000/execute

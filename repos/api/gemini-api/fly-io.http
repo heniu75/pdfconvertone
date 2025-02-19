@@ -1,0 +1,22 @@
+### Variables for different environments
+@host = gem-api.fly.dev
+@baseUrl = https://{{host}}
+@apiToken = 9Q4CD2YUEPJMS7QU7EFX3DD32Z7YK5WM
+
+### Test 1: No Authentication Token (Should return 400)
+GET {{baseUrl}}/
+Content-Type: application/json
+
+### Test 2: Invalid Authentication Token (Should return 401)
+GET {{baseUrl}}/
+Content-Type: application/json
+Authorization: Bearer wrong-token
+
+### Test 3: Valid Authentication Token (Should succeed)
+GET {{baseUrl}}/
+Content-Type: application/json
+Authorization: Bearer {{apiToken}}
+
+### Using variables
+GET {{baseUrl}}/
+Authorization: Bearer {{apiToken}}
